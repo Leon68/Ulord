@@ -1,0 +1,12 @@
+{ 
+    "threads":4,                                 // number of miner threads
+    "pools": [
+        {
+            "url": "ut.jeepool.com:7100",                // URL of mining server
+            "user": "UVj8gbMJzc2GbzJCs9XgXNXdHGzKMs6Cms",   // username for mining server 
+            "pass": "x"                                            // password for mining server
+                                                        
+        }
+    ]                
+ 
+}
